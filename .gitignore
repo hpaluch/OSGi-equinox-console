@@ -1,0 +1,4 @@
+*~
+*.log
+*.swp
+configuration/org.eclipse.osgi
