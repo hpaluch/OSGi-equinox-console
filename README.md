@@ -17,13 +17,16 @@ it into `d:\JAVA\jdk\jdk1.8.0_92`
 
 * run script
 
-      run-osgi-console.cmd
+```bat
+run-osgi-console.cmd
+```
 
 * you should see `osgi>` prompt - then you can invoke for example:
 
-	ss
-	exit
-
+```
+ss
+exit
+```
 
 ## Resources
 
