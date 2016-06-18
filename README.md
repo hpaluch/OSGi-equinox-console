@@ -25,9 +25,6 @@ it into `d:\JAVA\jdk\jdk1.8.0_92`
 	exit
 
 
-
-
-
 ## Resources
 
 This working example was made thanks to helpfull instructions
